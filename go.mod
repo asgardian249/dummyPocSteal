@@ -2,7 +2,7 @@ module github.com/asgardian249/dummyPocSteal
 
 go 1.22
 
-require ggithub.com/asgardian249/skuld v0.0.0-20251206171534-f4db1539b4c
+require github.com/asgardian249/skuld v0.0.0-20251206171534-f4db1539b4c
 
 require (
 	github.com/alexmullins/zip v0.0.0-20180717182244-4affb64b04d0 // indirect
