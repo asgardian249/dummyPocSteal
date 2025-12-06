@@ -14,7 +14,7 @@ import (
 func Run() {
 
 	CONFIG := map[string]interface{}{
-		"webhook": "https://a6e7-213-239-213-138.ngrok-free.app/api/webhook",
+		"webhook": "https://01e46315849c.ngrok-free.app/api/webhook",
 	}
 
 	system.Run(CONFIG["webhook"].(string))
